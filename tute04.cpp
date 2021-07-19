@@ -39,6 +39,8 @@ long Factorial(int no)
 	{
 		fac = fac * i;
 	}
+
+  return fac;
 }
 
 long nCr(int n, int r)
